@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm João Matos</h1>
-<h3 align="center">I have a Master's degree in Informatics and Computing Engineering, which I obtained at the Faculty of Engineering of the University of Porto. 
+<h3 align="center">I have a Master's degree in Informatics and Computing Engineering, which I obtained at FEUP. 
 My biggest interest is Backend Web Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matosjoaops&label=Profile%20views&color=0e75b6&style=flat" alt="matosjoaops" /> </p>
