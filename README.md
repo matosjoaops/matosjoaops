@@ -1,7 +1,7 @@
 <!--
 ### Hi there! I'm João Matos 👋
 
-I have a Master's degree in Informatics and Computing Engineering, which I obtained at the Faculty of Engineering of the University of Porto. 
+I have a Master's degree in Informatics and Computing Engineering, which I obtained at FEUP. 
 My biggest interest is Backend Web Development.
 
 
