@@ -2,7 +2,7 @@
 ### Hi there! I'm João Matos 👋
 
 I have a Master's degree in Informatics and Computing Engineering, which I obtained at FEUP. 
-My biggest interest is Backend Web Development.
+My biggest interest is Backend Development.
 
 
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm João Matos</h1>
 <h3 align="center">I have a Master's degree in Informatics and Computing Engineering, which I obtained at FEUP. 
-My biggest interest is Backend Web Development.</h3>
+My biggest interest is Backend Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matosjoaops&label=Profile%20views&color=0e75b6&style=flat" alt="matosjoaops" /> </p>
 
